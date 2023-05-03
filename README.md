@@ -1,3 +1,3 @@
-# Karar Verme Teknikleri, TBB.
+# Nicel Karar Verme Yöntemleri, FKB.
 
 Lütfen izinsiz çoğaltmayınız.
